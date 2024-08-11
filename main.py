@@ -1,5 +1,4 @@
 import pygame
-import random
 from graphics import *
 from maze.utils import DISPLAY_WIDTH, DISPLAY_HEIGHT, check_recursion_limit, colors
 from maze.state import set_end_point
